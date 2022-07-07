@@ -1,5 +1,5 @@
 {
-	"name": "react-native-print-v2",
+	"name": "react-native-print",
 	"version": "0.10.0",
 	"description": "Print documents with React Native",
 	"main": "index.js",
@@ -16,7 +16,8 @@
 		"url": "github:elemanjan/react-native-print"
 	},
 	"peerDependencies": {
-		"react-native": ">= 0.60.2",
+		"react": "^16.8.6 || ^17.0.0",
+        	"react-native": ">=0.60.0"
 	},
 	"author": "Christopher Dro <casheghian@gmail.com> (http://chris.si)",
 	"license": "MIT"
